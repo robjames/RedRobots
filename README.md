@@ -1,4 +1,4 @@
-RedRobots---Rob-James
+RedRobots
 =====================
 
 Unit tests to solve the coding test
